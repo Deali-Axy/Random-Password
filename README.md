@@ -10,7 +10,7 @@ Visual Basic 6.0
 [LGPL 3](http://git.oschina.net/deali/CodeZone/blob/master/LICENSE/LGPL3.LICENSE?dir=0&filepath=LICENSE%2FLGPL3.LICENSE&oid=5cc63c20b453fb272056d6ce14398a593d303a90&sha=45e842c4825ed3bb614e5086b82742c428e0d70b)
 
 ### 软件下载
-[比例计算.exe](http://git.oschina.net/deali/RatioCount/attach_files/download?i=61215&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F00%2F69%2FZxV3cFdntqaAU9eBAACOAHDfbLw938.exe%3Ftoken%3D791fd232f1dacd88b6bc9552a7e5cc64%26ts%3D1466414788%26attname%3D%E6%AF%94%E4%BE%8B%E8%AE%A1%E7%AE%97.exe)
+[GenerateSimplePassword.exe](https://github.com/Deali-Axy/Random-Password/raw/master/Output/RndP%E9%9A%8F%E6%9C%BA%E5%AF%86%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8.exe)
 
 ### 联系作者
 >邮箱：deali@live.com        
